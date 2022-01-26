@@ -4,3 +4,7 @@
 3. run_model文件夹下运行globalpointer_train.py即可训练,inference_model文件夹下运行inference.py即可推理。
 4. 支持Globalpointer为DDP多卡形式，修改多卡形式,运行脚本run_globalpointer即可，运行ddp_inference或者inference都可得到结果。
 5. 结果如下：
+|  CMeEE实验结果 |
+|  ----  | ----  |
+| 单元格  | 单元格 |
+| 单元格  | 单元格 |
