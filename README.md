@@ -1,3 +1,5 @@
+## 引言
+1. 感谢苏神带来的模型，原文地址：https://spaces.ac.cn/archives/8877
 ## 如何运行
 1. 对应模型EfficientGlobalPointerNet,可以运行阿里的医疗大赛数据。
 2. config.ini文件可配置所需的参数。
